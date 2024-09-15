@@ -1,5 +1,5 @@
 # progres-belajar
--- Pengalaman Belajar di Dicoding
+Pengalaman Belajar di Dicoding
 
 15 September 2024
 Belajar kelas Git dan GitHub. (Progres 38%)
